@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Weather Time</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="city">City: </string>
+    <string name="temperature">Temperature</string>
+    <string name="dewpoint">Dew Point</string>
+    <string name="humidity">Humidity</string>
+    <string name="visibility">Visibility</string>
+    <string name="windspeed">Wind Speed</string>
+    <string name="winddirection">Wind Direction</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="how_to">How to use this app:</string>
+    <string name="help1">1. Type into the City textbox to search for a city which you want to view the weather of.</string>
+    <string name="help2">2. Select a city from the dropdown results.</string>
+    <string name="help3">3. Watch as the weather is shown on the map</string>
+    <string name="help4">*This app requires an internet connection and you may have to wait for the search box and the map to load.</string>
+    <string name="about_me">About this app</string>
+    <string name="developer">Developer: Kien Hung Truong</string>
+    <string name="dev_info">Student at Seneca College</string>
+    <string name="dev_study">MAP524 of Summer 2015</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_about">AboutActivity</string>
+</resources>
